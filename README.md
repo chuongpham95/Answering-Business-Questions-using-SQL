@@ -1,1 +1,1 @@
-# Answering-Business-Questions-using-SQL
+# Please click on Basics.ipynb to view the project
